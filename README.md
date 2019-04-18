@@ -1,6 +1,6 @@
 # Homework 2: Design Specification
 
-This document is last edited by Team _Undefined_ on April 17, 2019.
+This document is last edited by Team _Undefined_ on April 18, 2019.
 
 ## Problem
 
@@ -64,7 +64,7 @@ _TODO_
 
 <img src="img/figure5.png" alt="Figure 5" title="Figure 5" width="225px" height="487px" />
 
-The Organizer will be lead to the Figure 5 after clicking “Start the game”. The “Discussion Time!” button will automatically show the next display in Figure 6. Similarly, it will display the question on the Organizer’s screen to every player in the room.
+The Organizer will be lead to the [Figure 5](#figure-5) after clicking “Start the game”. The “Discussion Time!” button will automatically show the next display in Figure 6. Similarly, it will display the question on the Organizer’s screen to every player in the room.
 
 ### Figure 6
 

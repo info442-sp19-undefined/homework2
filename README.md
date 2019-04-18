@@ -21,8 +21,8 @@ A new solution is needed in order to address the difficulties team members exper
 
 ## Solution
 
-<div style="width:150px; height:100px">
-![Figure 1](/img/figure1.png)
+<div style="width:375px; height:812px">
+![Figure 1](img/figure1.png)
 </div>
 
 Figure 1 shows the main page of our web application, Dive-In!. It provides the user with two abilities:
@@ -31,41 +31,47 @@ Figure 1 shows the main page of our web application, Dive-In!. It provides the u
 
 The “New” feature will provide Organizers the ability to create a new room while “Join” will connect players with a currently open room.
 
-<div style="width:150px; height:100px">
-![Figure 2](/img/figure1.png)
+<div style="width:375px; height:812px">
+![Figure 2](img/figure2.png)
 </div>
 
 Figure 2 is when the Organizer has created a room upon clicking the “New” button in Figure 1. It provides the ability to begin the ice breaker game after an ample amount of people are participating. They will have twothree different options which are:
 Begins the icebreaker game
 A knowledge test where all the players are given a series of question on how well they know each other.
 
-
-Figure 3
+<div style="width:375px; height:812px">
+![Figure 3](img/figure3.png)
+</div>
 
 When the Organizer presses on the “Start Icebreaker” they will be shown in Figure 3. The Organizer would select a category of questions they would like to go through. Each icon represents a specific genre of questions. The random option will randomly select questions from each category. While the customized option allows the organizer of the room to write their own questions.
 
-
-Figure 4
+<div style="width:375px; height:812px">
+![Figure 4](img/figure4.png)
+</div>
 
 The Organizer will be shown in Figure 4 and have the option to begin the icebreaker. The “Discussion Time!” button will automatically show the next display in Figure 5. Similarly, it will display the question on the Organizer’s screen to every player in the room.
 
-
-Figure 5
+<div style="width:375px; height:812px">
+![Figure 5](img/figure5.png)
+</div>
 
 Figure 5 will provide the Organizer with the option to move forward to the next question which will display the next question on the Organizer’s display like Figure 4.
 
-
-Figure 6
+<div style="width:375px; height:812px">
+![Figure 6](img/figure6.png)
+</div>
 
 Figure 6 would appear after the Organizer selects the “Take Test” button. This feature will test every player’s knowledge of how familiar they are with their team members. The player will be awarded points based on whether they answer correctly or incorrectly.
 
-
-Figure 7
+<div style="width:375px; height:812px">
+![Figure 7](img/figure7.png)
+</div>
 
 If the player selects the join button in Figure 1, they will be led to Figure 7. The player will input their name and room number into the corresponding text boxes and select an icon. The “Join Now” button connects the user to the corresponding room number. Once the button is selected, it will check that the room number is correct and try to connect. However, if the player inputs an incorrect room number then, an error message will appear and ask the user to type in the correct information.
 
-
-Figure 8
+<div style="width:375px; height:812px">
+![Figure 8](img/figure8.png)
+</div>
 
 Similarly, after the icebreaker is completed, the players will be shown in Figure 8. Players will have three different features:
 An analysis where a personal report is generated showing how well the player did.
@@ -74,23 +80,29 @@ They can see their rank in comparison to their teammates.
 
 The “View Ranking” feature will only appear after the test has been done.  
 
-
-Figure 9
+<div style="width:375px; height:812px">
+![Figure 9](img/figure9.png)
+</div>
 
 After the Organizer selects a category and initiates “Discussion Time!” as shown   Figure 4, each player will be shown the same question on their displays. Likewise, they will have two options to choose from.
 
+<div style="width:375px; height:812px">
+![Figure 10](img/figure10.png)
+</div>
 
-Figure 10
 Figure 10 is presented after the player selects “View Ranking” from Figure 8. It would show the player the rankings of all the players within the same room which is calculated from their test scores.
 
-
-Figure 11
+<div style="width:375px; height:812px">
+![Figure 11](img/figure11.png)
+</div>
 
 Figure 11 would be shown to the player after they press on the “View My Analysis” feature from Figure 8. The player will be shown who is the most compatible teammate based on their answers. They will be provided two options:
 Next which will present them Figure 11
 Done which exits the analysis screen and presents Figure 8
 
-Figure 12
+<div style="width:375px; height:812px">
+![Figure 12](img/figure12.png)
+</div>
 
 Figure 12 displays how many people enjoy similar activities as the player or has similar commonalities as them. The player is provided three options:
 Next which shows another screen similar to Figure 12 with different analysis

@@ -21,7 +21,7 @@ A new solution is needed in order to address the difficulties team members exper
 
 ### Figure 1
 
-<img src="img/figure1.png" alt="Figure 1" title="Figure 1" width="229px" height="487px" />
+<img src="img/figure1.png" alt="Figure 1" title="Figure 1" width="245px" height="487px" />
 
 [Figure 1](img/figure1.png) shows the main page of our web application, Dive-In!. It provides the user with two abilities:
 
@@ -32,7 +32,7 @@ The “New” feature will provide Organizers the ability to create a new room w
 
 ### Figure 2
 
-<img src="img/figure2.png" alt="Figure 2" title="Figure 2" width="229px" height="487px" />
+<img src="img/figure2.png" alt="Figure 2" title="Figure 2" width="245px" height="487px" />
 
 [Figure 2](#figure-2) is when the Organizer has created a room upon clicking the “New” button in [Figure 1](#figure-1). It provides the ability to begin the ice breaker game after an ample amount of people are participating. They will have two different options which are:
 
@@ -43,13 +43,13 @@ The “Start Icebreaker” button will be disabled if there are less than 2 peop
 
 ### Figure 3
 
-<img src="img/figure3.png" alt="Figure 3" title="Figure 3" width="229px" height="487px" />
+<img src="img/figure3.png" alt="Figure 3" title="Figure 3" width="245px" height="487px" />
 
 When the Organizer presses on the “Start Icebreaker” they will be lead to the screen shown in [Figure 3](#figure-3). The Organizer would select a **category** of questions they would like to go through. Each icon represents a specific genre of questions. The random option will randomly select questions from each category. While the customized option allows the organizer of the room to write their own questions.
 
 ### Figure 4
 
-<img src="img/figure4.png" alt="Figure 4" title="Figure 4" width="229px" height="487px" />
+<img src="img/figure4.png" alt="Figure 4" title="Figure 4" width="245px" height="487px" />
 
 After the Organizer has selected at least one category, the “next” button will turns from gray to blue which allows the organizer to change the selections. After clicking the “next” button, the organizer will be lead to the screen shown in [Figure 4](#figure-4) where allows the Organizer to choose from the following options:
 - Clicking “Start the game” when there are at least 2 participants (including the organizer) in the room.
@@ -62,31 +62,31 @@ _TODO_
 
 ### Figure 5
 
-<img src="img/figure5.png" alt="Figure 5" title="Figure 5" width="229px" height="487px" />
+<img src="img/figure5.png" alt="Figure 5" title="Figure 5" width="245px" height="487px" />
 
 The Organizer will be lead to the [Figure 5](#figure-5) after clicking “Start the game”. The “Discussion Time!” button will automatically show the next display in [Figure 6](#figure-6). Similarly, it will display the question on the Organizer’s screen to every player in the room.
 
 ### Figure 6
 
-<img src="img/figure6.png" alt="Figure 6" title="Figure 6" width="229px" height="487px" />
+<img src="img/figure6.png" alt="Figure 6" title="Figure 6" width="245px" height="487px" />
 
 [Figure 6](#figure-6) will provide the Organizer with the option to move forward to the next question which will display the next question on the Organizer’s display like [Figure 5](#figure-5).
 
 ### Figure 7
 
-<img src="img/figure7.png" alt="Figure 7" title="Figure 7" width="229px" height="487px" />
+<img src="img/figure7.png" alt="Figure 7" title="Figure 7" width="245px" height="487px" />
 
 [Figure 7](#figure-7) would appear after the Organizer selects the “Take Test” button. This feature will test every player’s knowledge of how familiar they are with their team members. The player will be awarded points based on whether they answer correctly or incorrectly.
 
 ### Figure 8
 
-<img src="img/figure8.png" alt="Figure 8" title="Figure 8" width="229px" height="487px" />
+<img src="img/figure8.png" alt="Figure 8" title="Figure 8" width="245px" height="487px" />
 
 If the player selects the “Join Now” button in [Figure 1](#figure-1), they will be led to [Figure 8](#figure-8). The player will input their name and room number into the corresponding text boxes and select an icon. The “Join Now” button connects the user to the corresponding room number. Once the button is selected, it will check that the room number is correct and try to connect. However, if the player inputs an incorrect room number then, an error message will appear and ask the user to type in the correct information.
 
 ### Figure 9
 
-<img src="img/figure9.png" alt="Figure 9" title="Figure 9" width="229px" height="487px" />
+<img src="img/figure9.png" alt="Figure 9" title="Figure 9" width="245px" height="487px" />
 
 Similarly, after the icebreaker is completed, the players will be shown in [Figure 9](#figure-9). Players will have three different features:
 
@@ -98,19 +98,19 @@ The “View Ranking” feature will only appear after the test has been done.
 
 ### Figure 10
 
-<img src="img/figure10.png" alt="Figure 10" title="Figure 10" width="229px" height="487px" />
+<img src="img/figure10.png" alt="Figure 10" title="Figure 10" width="245px" height="487px" />
 
 After the Organizer selects a category and initiates “Discussion Time!” as shown in [Figure 5](#figure-5), each player will be lead to the screen shown in [Figure 10](#figure-10). [Figure 10](#figure-10) displays the same question on every player’s displays. Likewise, they will have two options to choose from.
 
 ### Figure 11
 
-<img src="img/figure11.png" alt="Figure 11" title="Figure 11" width="229px" height="487px" />
+<img src="img/figure11.png" alt="Figure 11" title="Figure 11" width="245px" height="487px" />
 
 [Figure 11](#figure-11) is presented after the player selects “View Ranking” from [Figure 9](#figure-9). It would show the player the rankings of all the players within the same room which is calculated from their test scores.
 
 ### Figure 12
 
-<img src="img/figure12.png" alt="Figure 12" title="Figure 12" width="229px" height="487px" />
+<img src="img/figure12.png" alt="Figure 12" title="Figure 12" width="245px" height="487px" />
 
 [Figure 12](#figure-12) would be shown to the player after they press on the “View My Analysis” feature from [Figure 9](#figure-9). The player will be shown who they are most compatible with based on their answers. They will be provided two options:
 
@@ -119,7 +119,7 @@ After the Organizer selects a category and initiates “Discussion Time!” as s
 
 ### Figure 13
 
-<img src="img/figure13.png" alt="Figure 13" title="Figure 13" width="229px" height="487px" />
+<img src="img/figure13.png" alt="Figure 13" title="Figure 13" width="245px" height="487px" />
 
 [Figure 13](#figure-13) displays how many people enjoy similar activities as the player or has similar commonalities as them. The player is provided three options:
 

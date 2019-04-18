@@ -29,7 +29,7 @@ Figure 1 shows the main page of our web application, Dive-In!. It provides the u
 
 The “New” feature will provide Organizers the ability to create a new room while “Join” will connect players with a currently open room.
 
-<img src="img/figure3.png" alt="Figure 3" title="TODO" width="225px" height="487px" />
+<img src="img/figure2.png" alt="Figure 2" title="TODO" width="225px" height="487px" />
 
 Figure 2 is when the Organizer has created a room upon clicking the “New” button in Figure 1. It provides the ability to begin the ice breaker game after an ample amount of people are participating. They will have two different options which are:
 Begins the icebreaker game

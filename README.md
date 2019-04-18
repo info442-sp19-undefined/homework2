@@ -49,7 +49,7 @@ When the Organizer presses on the “Start Icebreaker” they will be lead to th
 
 ### Figure 4
 
-<img src="img/figure4.png" alt="Figure 4" title="Figure 4" width="245px" height="487px" />
+<img src="img/figure4.png" alt="Figure 4" title="Figure 4" width="245px" height="500px" />
 
 After the Organizer has selected at least one category, the “next” button will turns from gray to blue which allows the organizer to change the selections. After clicking the “next” button, the organizer will be lead to the screen shown in [Figure 4](#figure-4) where allows the Organizer to choose from the following options:
 - Clicking “Start the game” when there are at least 2 participants (including the organizer) in the room.
@@ -57,8 +57,10 @@ After the Organizer has selected at least one category, the “next” button wi
 - Copy room ID to the clipboard.
 - Go back to change selections.
 
-_TODO_
+### Figure 4-1
+<img src="img/figure4-1.png" alt="Figure 4" title="Figure 4" width="245px" height="500px" />
 
+If there are under **2** players, organizer is not able to start the game and "Start Icebreaker" button is grayed out (as shown in [Figure 4-1](#figure-4-1)). 
 ### Figure 5
 
 <img src="img/figure5.png" alt="Figure 5" title="Figure 5" width="487px" height="245px" />
@@ -97,7 +99,7 @@ The “View Ranking” feature will only appear after the test has been done.
 
 ### Figure 10
 
-<img src="img/figure10.png" alt="Figure 10" title="Figure 10" width="245px" height="487px" />
+<img src="img/figure10.png" alt="Figure 10" title="Figure 10" width="487px" height="245" />
 
 After the Organizer selects a category and initiates “Discussion Time!” as shown in [Figure 5](#figure-5), each player will be lead to the screen shown in [Figure 10](#figure-10). [Figure 10](#figure-10) displays the same question on every player’s displays. Likewise, they will have two options to choose from.
 

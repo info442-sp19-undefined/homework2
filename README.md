@@ -2,8 +2,6 @@
 
 This document is last edited by Team _Undefined_ [^Undefined] on April 17, 2019.
 
-[^Undefined]: Members: Rhea Chen, Yiran Ni, Veronica Chang, Jin Chang
-
 ## Problem
 
 Pentland et al. stressed the importance of relationships and how it is essential to a team’s success. Their research has shown that interpersonal conversations and social interactions have improved engagement, employee experience, and productivity. However, not every team communicates efficiently nor has strong relationships with one another. The problem we will be focusing on is communication and building trust between teams and team members.

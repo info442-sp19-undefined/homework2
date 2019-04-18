@@ -62,19 +62,19 @@ _TODO_
 
 ### Figure 5
 
-<img src="img/figure5.png" alt="Figure 5" title="Figure 5" width="245px" height="487px" />
+<img src="img/figure5.png" alt="Figure 5" title="Figure 5" width="487px" height="245px" />
 
 The Organizer will be lead to the [Figure 5](#figure-5) after clicking “Start the game”. The “Discussion Time!” button will automatically show the next display in [Figure 6](#figure-6). Similarly, it will display the question on the Organizer’s screen to every player in the room.
 
 ### Figure 6
 
-<img src="img/figure6.png" alt="Figure 6" title="Figure 6" width="245px" height="487px" />
+<img src="img/figure6.png" alt="Figure 6" title="Figure 6" width="487px" height="245px" />
 
 [Figure 6](#figure-6) will provide the Organizer with the option to move forward to the next question which will display the next question on the Organizer’s display like [Figure 5](#figure-5).
 
 ### Figure 7
 
-<img src="img/figure7.png" alt="Figure 7" title="Figure 7" width="245px" height="487px" />
+<img src="img/figure7.png" alt="Figure 7" title="Figure 7" width="487px" height="245px" />
 
 [Figure 7](#figure-7) would appear after the Organizer selects the “Take Test” button. This feature will test every player’s knowledge of how familiar they are with their team members. The player will be awarded points based on whether they answer correctly or incorrectly.
 

@@ -54,9 +54,8 @@ When the Organizer presses on the “Start Icebreaker” they will be lead to th
 After the Organizer has selected at least one category, the “next” button will turns from gray to blue which allows the organizer to change the selections. After clicking the “next” button, the organizer will be lead to the screen shown in [Figure 4](#figure-4) where allows the Organizer to choose from the following options:
 - Clicking “Start the game” when there are at least 2 participants (including the organizer) in the room.
 - View who has joined the room.
-- Copy room ID
-- Share room ID in other Apps
-- Go back to change selections
+- Copy room ID to the clipboard.
+- Go back to change selections.
 
 _TODO_
 

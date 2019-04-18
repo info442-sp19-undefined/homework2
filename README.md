@@ -21,9 +21,9 @@ A new solution is needed in order to address the difficulties team members exper
 
 ## Solution
 
-<div style="width:375px; height:812px">
-![Figure 1](img/figure1.png)
-</div>
+<div style="width:375px; height:812px">![Figure 1](img/figure1.png)</div
+<img src="img/figure1.png" alt="Figure 1"
+	title="Dive-In Screen" width="375px" height="812px" />
 
 Figure 1 shows the main page of our web application, Dive-In!. It provides the user with two abilities:
 - New which creates a new room

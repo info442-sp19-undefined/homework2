@@ -1,6 +1,6 @@
 # Homework 2: Design Specification
 
-This document is last edited by Team _Undefined_ [^Undefined] on April 17, 2019.
+This document is last edited by Team _Undefined_ on April 17, 2019.
 
 ## Problem
 
